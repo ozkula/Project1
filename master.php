@@ -1,1 +1,1 @@
-Isi master
+Konten Awal Master
